@@ -6,7 +6,7 @@
 
 using namespace std;
 
-//detta program är en ordbok som innehåller möjligheten till att lägga till egna ord, ta bort ord, printa ut alla ord, söka efter ord in a noob way och söka efter ord på ett avancerat sätt!! 
+//detta program är en ordbok som innehåller möjligheten till att lägga till egna ord, ta bort ord, printa ut alla ord, söka efter ord standard och söka efter ord på ett avancerat sätt!! 
 
 class ord {   //skapar en klass som innehåller funktioner som sätter och hämtar ord. ( tex för att senare skapa orden)
 private:
